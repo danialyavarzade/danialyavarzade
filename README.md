@@ -50,9 +50,12 @@ scikit-learn
 
 
 
+## Tech Stack
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danialyavarzade&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrostamiorg&" alt="mohammadrostamiorg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danialyavarzade&" alt="danialyavarzade" /></p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialyavarzade&show_icons=true&theme=radical)
 
 
