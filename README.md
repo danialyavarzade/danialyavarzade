@@ -10,14 +10,18 @@ A bot developer from Iran
 I'm telegram bot developer...
 
 I use python 
+
 I currently learn AI 
 
 ## 🛠 Skills
 **languges**
+
 '''
 Python
+
 SQL
 '''
+
 **tolls**
 '''
 gg
