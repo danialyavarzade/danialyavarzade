@@ -19,7 +19,7 @@ python
 SQL
 ```
 
-tolls:
+tools:
 ```
 git
 ```
